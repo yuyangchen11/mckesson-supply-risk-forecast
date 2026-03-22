@@ -1,9 +1,0 @@
-{
-  "best_params": {
-    "depth": 7,
-    "learning_rate": 0.19754971367670293,
-    "iterations": 549
-  },
-  "best_score": 0.6067029062658019,
-  "n_folds": 3
-}
