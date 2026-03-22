@@ -1,0 +1,10 @@
+{
+  "best_params": {
+    "n_estimators": 140,
+    "max_depth": 25,
+    "min_samples_split": 12,
+    "min_samples_leaf": 5
+  },
+  "best_score": 0.617376142327058,
+  "n_folds": 3
+}

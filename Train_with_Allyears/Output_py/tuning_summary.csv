@@ -1,0 +1,5 @@
+model_type,best_score,best_params
+xgboost,0.6229094905144746,"{""max_depth"": 8, ""learning_rate"": 0.1903119898351455, ""n_estimators"": 251, ""subsample"": 0.6342340273631956, ""colsample_bytree"": 0.6014947911252734}"
+randomforest,0.617376142327058,"{""n_estimators"": 140, ""max_depth"": 25, ""min_samples_split"": 12, ""min_samples_leaf"": 5}"
+lightgbm,0.615927390500851,"{""num_leaves"": 98, ""learning_rate"": 0.08239710200819239, ""n_estimators"": 320, ""subsample"": 0.6863574283768553, ""colsample_bytree"": 0.8884084946124652}"
+catboost,0.6067029062658019,"{""depth"": 7, ""learning_rate"": 0.19754971367670293, ""iterations"": 549}"
